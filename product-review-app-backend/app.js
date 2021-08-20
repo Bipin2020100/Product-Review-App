@@ -15,7 +15,7 @@ var app = express();
 
 const MongoClient = require("mongodb").MongoClient;
 const client = new MongoClient(
-  "mongodb+srv://hung:abc1234567@cluster0.7hv9o.mongodb.net?retryWrites=true&w=majority",
+  "mongodb+srv://process.env.DB_USER:process.env.DB_PASS@cluster0.7hv9o.mongodb.net?retryWrites=true&w=majority",
   { useUnifiedTopology: true }
 );
 
