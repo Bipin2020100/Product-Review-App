@@ -31,8 +31,4 @@ a. Entity, HTTP Verb, Request Header and Body, Response Header, and Body (You ma
 to generate this API documentation).
 5. A daily push is required.
 
-## Important Notes
-1. Remember to respect the code honor submission policy. All written code must be original. Presenting
-something as one’s own work when it came from another source is plagiarism and is forbidden.
-2. Plagiarism is a very serious thing in all American academic institutions and is guarded against vigilantly by
-every professor
+
